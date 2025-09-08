@@ -1,0 +1,3 @@
+This is a sample file created using vim editor.
+You can write notes, code, or anything here.
+
